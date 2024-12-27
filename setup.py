@@ -22,15 +22,15 @@ with open("README.md", encoding="utf-8") as f:
     readme = f.read()
 
 setup(
-    name="TgCrypto",
+    name="Telecrypto",
     version="1.2.5",
     description="Fast and Portable Cryptography Extension Library for Pyrogram",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/pyrogram",
-    download_url="https://github.com/pyrogram/tgcrypto/releases/latest",
-    author="Dan",
-    author_email="dan@pyrogram.org",
+    url="https://github.com/venombolteop",
+    download_url="https://github.com/venombolteop/telecrypto/releases/latest",
+    author="venombolteop",
+    author_email="venombolteop@gmail.com",
     license="LGPLv3+",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -56,11 +56,11 @@ setup(
         "Topic :: Software Development :: Libraries",
         "Topic :: Software Development :: Libraries :: Python Modules"
     ],
-    keywords="pyrogram telegram crypto cryptography encryption mtproto extension library aes",
+    keywords="pyrolink telegram crypto cryptography encryption mtproto extension library aes",
     project_urls={
-        "Tracker": "https://github.com/pyrogram/tgcrypto/issues",
-        "Community": "https://t.me/pyrogram",
-        "Source": "https://github.com/pyrogram/tgcrypto",
+        "Tracker": "https://github.com/venombolteop/telecrypto/issues",
+        "Community": "https://t.me/pyrolink",
+        "Source": "https://github.com/venombolteop/telecrypto",
         "Documentation": "https://docs.pyrogram.org",
     },
     python_requires="~=3.7",
