@@ -1,7 +1,7 @@
 # TgCrypto
 
 > [!NOTE]
-> The project is no longer maintained or supported. Thanks for appreciating it.
+> The project is now longer maintained or supported. Thanks for appreciating it.
 
 > [!NOTE]
 > The implementations of the algorithms presented in this repository are to be considered for educational purposes only.
